@@ -4,5 +4,5 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 
 ## Find me around the web 🌎:
-- Sharing updates on <a href="https://twitter/chen86860">Twitter</a> 🏓
+- Sharing updates on <a href="https://twitter.com/chen86860">Twitter</a> 🏓
 - Asking me some question on <a href="https://stackoverflow.com/users/4661426/jack-chen"> Stackoverflow</a> 🧐
