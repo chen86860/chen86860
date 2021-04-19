@@ -1,6 +1,6 @@
 # Hi, I'm Jack~  🧑‍💻
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, GraphQL and Golang, also embedded system developemnt like Raspberry Pi.
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, GraphQL and Golang, also embedded system development like Raspberry Pi.
 
 
 ## Find me around the web 🌎:
